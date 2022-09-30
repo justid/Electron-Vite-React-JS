@@ -33,7 +33,6 @@ function createWindow() {
     /**
      * Initial window options
      */
-    // require(join(process.env.PUBLIC, '/icon/icon.ico'));
     mainWindow = new BrowserWindow({
         height: 618,
         width: 1000,
